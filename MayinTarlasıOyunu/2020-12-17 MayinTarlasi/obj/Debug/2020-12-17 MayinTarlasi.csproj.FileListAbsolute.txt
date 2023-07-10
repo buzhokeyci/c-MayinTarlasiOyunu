@@ -1,0 +1,30 @@
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.exe.config
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.pdb
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csprojAssemblyReference.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\_2020_12_17_MayinTarlasi.Form1.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\_2020_12_17_MayinTarlasi.Properties.Resources.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.GenerateResource.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.exe.config
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\_2020_12_17_MayinTarlasi.Form1.resources
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\_2020_12_17_MayinTarlasi.Properties.Resources.resources
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\2020-12-17 MayinTarlasi\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\_2020_12_17_MayinTarlasi.Form1.resources
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\_2020_12_17_MayinTarlasi.Properties.Resources.resources
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\obj\Debug\2020-12-17 MayinTarlasi.pdb
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.exe.config
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.exe
+C:\Users\enesm\OneDrive\Masaüstü\PROJELER\MayinTarlasıTasarım\2020-12-17 MayinTarlasi\bin\Debug\2020-12-17 MayinTarlasi.pdb
